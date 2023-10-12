@@ -37,6 +37,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or want to connect, you can reach me at [your@email.com](mailto:your@email.com).
-
-Happy coding and enjoy using my first website! 😄
+Happy coding and enjoy using my first bootstrap website! 😄
