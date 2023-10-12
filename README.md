@@ -1,7 +1,4 @@
 # My First bootstrap Website: Portfolio
-
-![Website Preview](https://bootstrap-assignment-ochre.vercel.app/images/preview.png)
-
 ## Introduction
 
 A simple yet captivating project that I built as part of my journey into web development. This website is designed using HTML and Bootstrap, making it a great example for beginners looking to learn and practice these technologies.
